@@ -1,0 +1,4 @@
+C:/Users/skont/Desktop/C_proj/cmake-build-debug/CMakeFiles/C_proj.dir
+C:/Users/skont/Desktop/C_proj/cmake-build-debug/CMakeFiles/C_proj2.dir
+C:/Users/skont/Desktop/C_proj/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/skont/Desktop/C_proj/cmake-build-debug/CMakeFiles/rebuild_cache.dir
